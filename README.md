@@ -1,2 +1,11 @@
 # secondRepo_RK
-A simple Python program that takes the user's name and age as input and displays a greeting message using variables, input(), and print().
+## Description
+This project is a simple Python program that:
+- Takes the user's name as input.
+- Takes the user's afe as input.
+- Displays a greeting message with the entered name and age.
+ ## Concept Used 
+ - Variables
+ - input() function
+ - print() function
+
