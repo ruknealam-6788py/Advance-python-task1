@@ -1,2 +1,2 @@
 # secondRepo_RK
-A repository of advanced python concepts, projects, and practical examples. <br> This is my first git repository 
+A simple Python program that takes the user's name and age as input and displays a greeting message using variables, input(), and print().
