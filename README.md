@@ -1,4 +1,4 @@
-# secondRepo_RK
+
 ## Description
 This project is a simple Python program that:
 - Takes the user's name as input.
